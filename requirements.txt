@@ -1,5 +1,7 @@
 streamlit
 bcrypt
 python-dotenv
-anthropic
 langchain-groq
+langchain-core
+langgraph
+anthropic
