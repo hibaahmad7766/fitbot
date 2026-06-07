@@ -2,3 +2,4 @@ streamlit
 bcrypt
 python-dotenv
 anthropic
+langchain-groq
